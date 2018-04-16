@@ -3,8 +3,6 @@ var playlist = {
   songTitle: 'songtitle'
 };
 
-function updatePlaylist (artistName, songTitle) {
+function updatePlaylist (playlist, artistName, songTitle) {
   Object.assign({}, playlist, artistName, songTitle)
 }
-
-delete playlist.artistName;
