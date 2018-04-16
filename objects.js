@@ -1,5 +1,5 @@
 var playlist = {
-  eminem: 'Appassionata',
+  eminem: 'Mockingbird',
   outcast: 'Hey ya'
 };
 
